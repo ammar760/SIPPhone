@@ -1,0 +1,13 @@
+{
+  "name": "sip-phone",
+  "version": "2.0.0",
+  "description": "Desktop SIP Phone — direct UDP/TCP to port 5060",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev"
+  },
+  "dependencies": {
+    "electron": "^28.3.3"
+  }
+}
